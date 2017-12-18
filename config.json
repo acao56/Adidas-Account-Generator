@@ -1,0 +1,17 @@
+{
+    "INFO":{
+        "First_Name":"Micah",
+        "Last_Name":"Jones",
+        "Month":"3",
+        "Day":"4",
+        "Year":"1994",
+        "Email":"mygmailaccount@gmail.com", //gmail account for dot generation
+        "Password":"password"
+    },
+	"createMode" : "catchall", // Valid options are: catchall or gmail
+	"base_email" : "beta", // Base for catchall email
+	"domain" : "@mycatchall.com", // Domain for catchall email
+	"sitekey" : "6LdyFRkUAAAAAF2YmQ9baZ6ytpVnbVSAymVpTXKi", // Sitekey for registration page
+	"APIKEY_2CAP" : "a849c25d9793d0d70b7d8f53143f83be", // Your API key
+	"pageurl" : "https://cp.adidas.com/" // Registration endpoint
+}
