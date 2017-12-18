@@ -1,5 +1,5 @@
 # Adidas-Account-Generator
-Adidas account generator with 2captcha support
+Adidas account generator with 2captcha support by [@Acez428](https://twitter.com/Acez428)
 
 # Modified version of https://github.com/bopped/Adidas-Account-Creator by @bopped
 * View the readme there for instructions 
