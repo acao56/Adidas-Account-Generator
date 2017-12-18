@@ -1,10 +1,12 @@
 # Adidas-Account-Generator
 Adidas account generator with 2captcha support by [@Acez428](https://twitter.com/Acez428)
-
+Currently only supports US accounts.
+Be nice, I don't use python a lot.
 # Modified version of https://github.com/bopped/Adidas-Account-Creator by @bopped
 * View the readme there for instructions 
 
-# Once you've read the above readme here's what you can do: 
+
+
 
 
 config.json example
@@ -41,3 +43,12 @@ config.json explaination
     * The sitekey for the registration form 
 * APIKEY_2CAP 
     * Your 2captcha api key 
+
+
+
+Random errors 
+```
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+``` 
+This is just a warning that I'm too lazy to deal with right now.
